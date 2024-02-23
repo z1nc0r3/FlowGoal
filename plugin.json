@@ -1,0 +1,12 @@
+{
+    "ID": "C4E3F326-ED0F-423E-B79E-F96F52984159",
+    "ActionKeyword": "us",
+    "Name": "FlowGoal",
+    "Description": "Plugin for get Football live scores.",
+    "Author": "z1nc0r3",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/z1nc0r3/FlowGoal",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
